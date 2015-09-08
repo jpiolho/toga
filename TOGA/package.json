@@ -1,0 +1,10 @@
+{
+  "name": "TOGA",
+  "version": "0.0.0",
+  "description": "TOGA",
+  "main": "app.js",
+  "author": {
+    "name": "JPiolho",
+    "email": ""
+  }
+}
